@@ -5,3 +5,8 @@
 /node_modules
 yarn-error.log
 /.idea
+
+/api
+/services
+/models
+/subscribers
