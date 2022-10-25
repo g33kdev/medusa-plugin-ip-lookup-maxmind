@@ -1,6 +1,6 @@
 {
   "name": "medusa-plugin-ip-lookup-maxmind",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Medusa plugin to lookup a user's country based on IP using MaxMind",
   "author": "Steven Nguyen <support@g33kdev.com>",
   "license": "ISC",
