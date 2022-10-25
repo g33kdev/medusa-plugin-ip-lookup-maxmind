@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A Medusa plugin to lookup a user's country based on IP using MaxMind",
   "author": "Steven Nguyen <support@g33kdev.com>",
-  "license": "MIT",
+  "license": "ISC",
   "scripts": {
     "build": "babel src --out-dir . --ignore **/__tests__ --extensions \".ts,.js\"",
     "watch": "babel -w src --out-dir . --ignore **/__tests__ --extensions \".ts,.js\"",
